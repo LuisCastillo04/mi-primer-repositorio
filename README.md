@@ -1,2 +1,3 @@
 # mi-primer-repositorio
-Mi primer repositorio en Git Hub.
+Mi primer read-me en Git Hub.
+
